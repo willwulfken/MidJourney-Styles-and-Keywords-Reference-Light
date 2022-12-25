@@ -16,9 +16,12 @@
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Parameters/Tile_Parameter.md">MidJourney V3</a>
 		</td>
 	</tr>
+	<tr align="center" valign="middle">
+		<td colspan=3>
+			<a href="""">MidJourney Beta Features</a>
+		</td>
+	</tr>
 </table>
-<br>
-<a href="">MidJourney Beta Features</a>
 
 </div>
 
