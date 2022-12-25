@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV3_active.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Artists.md)
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Artists.md">MidJourney V1</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Artists.md">MidJourney V2</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Artists.md">MidJourney V3</a>
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" alt="Just The Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_sphere_active.webp?raw=true" alt="Sphere" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_landscape_inactive.webp?raw=true" alt="Landscape" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Landscape/Artists.md)
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Artists.md">Just The Style</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Artists.md">Sphere</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Landscape/Artists.md">Landscape</a>
 
 </div>
 

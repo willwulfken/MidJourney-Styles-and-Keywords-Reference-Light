@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Niji_Journey/Styles.md)
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Niji_Journey/Styles.md">Just The Style</a>
 
 </div>
 

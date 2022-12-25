@@ -8,13 +8,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_MJV4_alpha_inactive.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_beta_upscale_active.webp?raw=true" alt="Beta Upscale" height="64" />]()
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V4 Alpha</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29">Niji Journey</a>
+<a href="">Beta Upscale</a>
 
 </div>
 

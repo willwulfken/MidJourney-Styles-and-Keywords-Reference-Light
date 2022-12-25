@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV1_active.webp?raw=true" alt="MidJourney V1" height="64" />]()
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Parameters/No_Parameter_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/No_Parameter_Comparison.md)
+<a href="">MidJourney V1</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Parameters/No_Parameter_Comparison.md">MidJourney V2</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/No_Parameter_Comparison.md">MidJourney V3</a>
 
 </div>
 
