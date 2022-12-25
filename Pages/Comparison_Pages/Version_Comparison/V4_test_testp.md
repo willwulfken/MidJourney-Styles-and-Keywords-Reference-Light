@@ -14,7 +14,7 @@
 		</td>
 	</tr>
 	<tr align="center" valign="middle">
-		<td>
+		<td colspan=2>
 			<a href="">V4 vs --test vs --testp</a>
 		</td>
 	</tr>

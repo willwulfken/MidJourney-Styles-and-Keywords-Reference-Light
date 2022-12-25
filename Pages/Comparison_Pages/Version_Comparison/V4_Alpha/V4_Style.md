@@ -14,7 +14,7 @@
 		</td>
 	</tr>
 	<tr align="center" valign="middle">
-		<td>
+		<td colspan=2>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">V4 vs --test vs --testp</a>
 		</td>
 	</tr>
