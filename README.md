@@ -273,7 +273,7 @@
       <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features.md">🕋 MidJourney Beta Features</a>
     </td>
     <td width=384>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/wiki/%F0%9F%A7%AA-Experiments">🧪 Experiments</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%A7%AA-Experiments">🧪 Experiments</a> <!--Links To Original Repo-->
     </td>
   </tr>
 </table>

@@ -4,10 +4,19 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md">V1 - V4 Alpha</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Remixing/test_testp_creative.md">Test, Testp, Creative</a>
-<br>
-<a href="">V1 - V4 Alpha ➜ Test, Testp, Creative</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md">V1 - V4 Alpha</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Remixing/test_testp_creative.md">Test, Testp, Creative</a>
+		</td>
+		<td>
+			<a href="">V1 - V4 Alpha ➜ Test, Testp, Creative</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 
