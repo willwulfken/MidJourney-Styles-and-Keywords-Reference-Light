@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Intangibles.md">MidJourney V1</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Intangibles.md">MidJourney V2</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Intangibles.md">MidJourney V3</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Style_Pages/Sphere/Intangibles.md">MidJourney V1</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Style_Pages/Sphere/Intangibles.md">MidJourney V2</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Intangibles.md">MidJourney V3</a>
 
 
 </div>
@@ -17,25 +17,25 @@
 
 	| Happy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Happy.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Happy.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Sad |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sad.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sad.webp?raw=true" width="256" /> |
 	
 	<br>
 
 	| Angelic | Evil |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Angelic.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Evil.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Angelic.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Evil.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Creepy | Horror |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Creepy.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Horror.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Creepy.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Horror.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -46,25 +46,25 @@
 
     | Capricornus | Aquarius | Pisces |
     | :-: | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Capricornus.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Aquarius.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pisces.webp?raw=true" width="256" /> |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Capricornus.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Aquarius.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pisces.webp?raw=true" width="256" /> |
 
     <br>
 
     | Taurus | Gemini | Cancer |
     | :-: | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Taurus.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gemini.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cancer.webp?raw=true" width="256" /> |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Taurus.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gemini.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cancer.webp?raw=true" width="256" /> |
 
     <br>
 
     | Leo | Virgo | Libra |
     | :-: | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Leo.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Virgo.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Libra.webp?raw=true" width="256" /> |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Leo.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Virgo.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Libra.webp?raw=true" width="256" /> |
 
     <br>
 
     | Scorpio | Sagittarius |
     | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Scorpio.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sagittarius.webp?raw=true" width="256" /> |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Scorpio.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sagittarius.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -73,7 +73,7 @@
 
 	| Yin Yang |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Yin_Yang.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Yin_Yang.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -83,5 +83,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

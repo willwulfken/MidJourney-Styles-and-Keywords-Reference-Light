@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Materials.md">MidJourney V1</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Materials.md">MidJourney V2</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Materials.md">MidJourney V3</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Style_Pages/Sphere/Materials.md">MidJourney V1</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Style_Pages/Sphere/Materials.md">MidJourney V2</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Materials.md">MidJourney V3</a>
 
 
 </div>
@@ -19,31 +19,31 @@
 
 	| Wooden |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wooden.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wooden.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Cardboard | Paperboard |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cardboard.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Paperboard.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cardboard.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Paperboard.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Paper | Construction Paper |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Paper.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Construction_Paper.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Paper.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Construction_Paper.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Tissue Paper | Graph Paper | Kraft Paper |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tissue_Paper.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Graph_Paper.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kraft_Paper.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tissue_Paper.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Graph_Paper.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kraft_Paper.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Wrapping Paper |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wrapping_Paper.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wrapping_Paper.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -51,19 +51,19 @@
 
 	| Dirt | Clay |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dirt.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clay.webp?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dirt.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clay.webp?raw=true" width="256" /> | 
 	
 	<br>
 	
 	| Mud | Mud Brick |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mud.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mud_Brick.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mud.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mud_Brick.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Sand |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sand.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sand.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -72,25 +72,25 @@
 
 	| Stone | Cobblestone |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Stone.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cobblestone.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Stone.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cobblestone.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Sandstone | Basalt |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sandstone.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Basalt.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sandstone.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Basalt.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Marble |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marble.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marble.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Brick |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brick.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brick.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -99,67 +99,67 @@
 
 	| Metal | Liquid Metal |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Metal.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquid_Metal.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Metal.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquid_Metal.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Pewter | Copper |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pewter.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Copper.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pewter.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Copper.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Aluminum | Brushed Aluminum |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Aluminum.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brushed_Aluminum.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Aluminum.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brushed_Aluminum.webp?raw=true" width="256" /> |
 	
 	<br>
 
 	| Bronze | Brass |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bronze.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brass.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bronze.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brass.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Iron |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Iron.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Iron.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Steel | Stainless Steel |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Steel.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Stainless_Steel.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Steel.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Stainless_Steel.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Titanium | Anodized Titanium |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Titanium.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anodized_Titanium.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Titanium.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anodized_Titanium.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Silver |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silver.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silver.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Gold | Platinum |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gold.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Platinum.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gold.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Platinum.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Zirconium | Cubic Zirconium |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Zirconium.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cubic_Zirconium.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Zirconium.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cubic_Zirconium.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Copper-Sulfate |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Copper-Sulfate.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Copper-Sulfate.webp?raw=true" width="256" /> |
 	
 	<br>
 
@@ -170,55 +170,55 @@
 
 	| Glassy | Stained Glass |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glassy.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Stained_Glass.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glassy.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Stained_Glass.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Seaglass | Obsidian |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seaglass.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Obsidian.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seaglass.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Obsidian.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Crystalline |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crystalline.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crystalline.webp?raw=true" width="256" /> |
 	
 	<br>
 
 	| Diamond | Herkimer Diamond | Amethyst |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Diamond.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Herkimer_Diamond.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Amethyst.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Diamond.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Herkimer_Diamond.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Amethyst.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Quartz | Smoky Quartz | Milky Quartz |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Quartz.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Smoky_Quartz.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Milky_Quartz.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Quartz.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Smoky_Quartz.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Milky_Quartz.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Pearl | Fluorite |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pearl.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fluorite.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pearl.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fluorite.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Lapis Lazuli |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lapis_Lazuli.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lapis_Lazuli.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Opal | Opalite |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Opal.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Opalite.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Opal.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Opalite.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Topaz | Agate |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topaz.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Agate.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topaz.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Agate.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -227,25 +227,25 @@
 
 	| Cloth | Cotton |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cloth.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cotton.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cloth.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cotton.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Denim |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Denim.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Denim.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Felt |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Felt.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Felt.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Spider Web |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spider_Web.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spider_Web.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -254,19 +254,19 @@
 
 	| Plastic | Lego |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plastic.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lego.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plastic.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lego.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Shrink Wrap |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shrink_Wrap.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shrink_Wrap.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Styrofoam |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Styrofoam.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Styrofoam.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -275,19 +275,19 @@
 
 	| Rubber |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubber.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubber.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Linoleum |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Linoleum.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Linoleum.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Silly Band |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -295,11 +295,11 @@
 
 	| Gel | Aerogel |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gel.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Aerogel.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gel.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Aerogel.webp?raw=true" width="256" /> |
 	
 	| Sponge |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sponge.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sponge.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -307,7 +307,7 @@
 
 	| Wax |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wax.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wax.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -316,13 +316,13 @@
 
 	| Ice |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ice.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ice.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Snow |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Snow.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Snow.webp?raw=true" width="256" /> |
 	
 	</div></p></details>
 
@@ -330,13 +330,13 @@
 
 	| Hairy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hairy.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hairy.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Feathers |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Feathers.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Feathers.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -345,7 +345,7 @@
 
 	| Amber | Ivory |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Amber.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ivory.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Amber.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ivory.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -356,25 +356,25 @@
 
 	| Liquid | Water | Liquid Crystal |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquid.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Water.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquid_Crystal.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquid.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Water.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquid_Crystal.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Lava |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lava.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lava.webp?raw=true" width="256" /> |
 
 	<br>
 	
 	| Ferro Fluid |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ferro_Fluid.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ferro_Fluid.webp?raw=true" width="256" /> |
 	
 	<br>
 
 	| Sea Foam |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sea_Foam.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sea_Foam.webp?raw=true" width="256" /> |
 	
   </div></p></details>
 
@@ -385,7 +385,7 @@
 
 	| Slime | Flubber |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Slime.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flubber.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Slime.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flubber.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -394,25 +394,25 @@
 
 	| Clear Tape |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clear_Tape.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clear_Tape.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Duct Tape |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Duct_Tape.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Duct_Tape.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Kapton Tape |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kapton_Tape.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kapton_Tape.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Epoxy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Epoxy.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Epoxy.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -421,7 +421,7 @@
 
 	| Orbeez |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orbeez.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orbeez.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -432,22 +432,22 @@
 	
 	| Lightning |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lightning.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lightning.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Fire |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fire.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fire.webp?raw=true" width="256" /> |
 
 	| Firework |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Firework.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Firework.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
 </div>
