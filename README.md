@@ -12,11 +12,7 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Sponsors.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors_light.webp?raw=true" width = 377>
-  <img alt="⭐ Sponsors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors.webp?raw=true" width = 377>
-</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Sponsors.md">⭐ Sponsors</picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/wiki/Submitting-Ideas-and-Pull-Requests"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request.webp?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request_light.webp?raw=true" width = 377>
