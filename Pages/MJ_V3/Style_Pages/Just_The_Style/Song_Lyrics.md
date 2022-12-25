@@ -2,9 +2,21 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Song_Lyrics.md">MidJourney V3</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+            <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Song_Lyrics.md">MidJourney V3</a>
+		</td>
+	</tr>
+</table>
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Song_Lyrics.md">Just The Style</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+            <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Song_Lyrics.md">Just The Style</a>
+		</td>
+	</tr>
+</table>
 
 
 </div>
