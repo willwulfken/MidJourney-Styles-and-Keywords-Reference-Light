@@ -18,7 +18,7 @@
       <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Sponsors.md">⭐ Sponsors</a>
     </td>
     <td width=384>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/wiki/Submitting-Ideas-and-Pull-Requests">📥 Submitting Ideas and Pull Requests</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/Submitting-Ideas-and-Pull-Requests">📥 Submitting Ideas and Pull Requests</a> <!--Links To Original Repo-->
     </td>
   </tr>
   <tr align="center" valign="middle">
@@ -33,10 +33,10 @@
 <table>
   <tr align="center" valign="middle">
     <td width=256>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/wiki/%E2%9D%94-How-To-Guide">❔ How-To Guide</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide">❔ How-To Guide</a> <!--Links To Original Repo-->
     </td>
     <td width=256>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/wiki/%F0%9F%93%9D-Observation-and-Research-Notes">📝 Observation and Research Notes</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%93%9D-Observation-and-Research-Notes">📝 Observation and Research Notes</a> <!--Links To Original Repo-->
     </td>
     <td width=256>
       <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Control_Image.md">⚪ Control and Image Seed</a>
