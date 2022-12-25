@@ -121,25 +121,25 @@
         <th rowspan="4">Painted By Alex Gray</th>
         <th>0</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0_AlexGray_0.webp?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_PaintedByBobRoss_0.5_PaintedByAlexGray_0.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0.5_AlexGray_0.webp?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_1_AlexGray_0.webp?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
         <th>0.5</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0_AlexGray_0.5.webp?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_PaintedByBobRoss_0.5_PaintedByAlexGray_0.5.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0.5_AlexGray_0.5.webp?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_1_AlexGray_0.5.webp?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
         <th>1</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0_AlexGray_1.webp?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_PaintedByBobRoss_0.5_PaintedByAlexGray_1.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0.5_AlexGray_1.webp?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_1_AlexGray_1.webp?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
         <th>2</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0_AlexGray_2.webp?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_PaintedByBobRoss_0.5_PaintedByAlexGray_2.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_0.5_AlexGray_2.webp?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_BobRoss_1_AlexGray_2.webp?raw=true" width="192" /></td>
     </tr>
 </table>
