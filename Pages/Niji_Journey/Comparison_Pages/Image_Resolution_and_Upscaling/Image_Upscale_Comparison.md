@@ -8,13 +8,32 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V4 Alpha</a>
-<a href="">Niji Journey</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">Beta Upscale</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V4 Alpha</a>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="">Niji Journey</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">Beta Upscale</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

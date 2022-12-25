@@ -4,10 +4,22 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V1</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V2</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V3</a>
-<a href="">MidJourney V4 Alpha</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V1</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V2</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V3</a>
+		</td>
+		<td>
+			<a href="">MidJourney V4 Alpha</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

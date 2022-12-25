@@ -2,11 +2,27 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Style_Pages/Sphere/Experimental.md">MidJourney V2</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Experimental.md">MidJourney V3</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Style_Pages/Sphere/Experimental.md">MidJourney V2</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Experimental.md">MidJourney V3</a>
+		</td>
+	</tr>
+</table>
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Experimental.md">Just The Style</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Experimental.md">Sphere</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Experimental.md">Just The Style</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Experimental.md">Sphere</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

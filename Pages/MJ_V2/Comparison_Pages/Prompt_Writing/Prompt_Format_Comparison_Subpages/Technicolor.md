@@ -5,8 +5,16 @@
 
 <div align="center">
 
-<a href="">MidJourney V2</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Technicolor.md">MidJourney V3</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="">MidJourney V2</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Technicolor.md">MidJourney V3</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

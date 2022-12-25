@@ -8,8 +8,16 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md">MidJourney V2</a>
-<a href="">MidJourney V3</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md">MidJourney V2</a>
+		</td>
+		<td>
+			<a href="">MidJourney V3</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

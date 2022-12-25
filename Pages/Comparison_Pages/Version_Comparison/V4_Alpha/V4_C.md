@@ -4,17 +4,43 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">V1 vs V2 vs V3 vs V4</a>
-<a href="">Midjourney V4 Alpha</a>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">V4 vs --test vs --testp</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/test_testp_creative.md">--test vs --testp vs --creative</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/HD/hd.md">hd</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">V1 vs V2 vs V3 vs V4</a>
+		</td>
+		<td>
+			<a href="">Midjourney V4 Alpha</a>
+		</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">V4 vs --test vs --testp</a>
+		</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/test_testp_creative.md">--test vs --testp vs --creative</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/HD/hd.md">hd</a>
+		</td>
+	</tr>
+</table>
+
 
 <br>
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">V4 Alpha</a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Style.md">V4 Style</a>
+<table>
+	<tr align="center" valign="middle">
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">V4 Alpha</a>
+		</td>
+		<td>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Style.md">V4 Style</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 
