@@ -11,7 +11,7 @@
 			<a href="">MidJourney V2</a>
 		</td>
 		<td width=256>
-			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">MidJourney V3</a>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">MidJourney V3</a>
 		</td>
 	</tr>
 </table>
@@ -54,7 +54,7 @@
 			<p><code>sphere:Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-ChromaticAberration.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere::Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-ChromaticAberration.webp?raw=true" width="256" /></p>
+			<p><code>sphere::Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-ChromaticAberration.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
@@ -87,5 +87,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md">⬅ Go Back To Prompt Format Comparison</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md">⬅ Go Back To Prompt Format Comparison</a></h6>
 </div>

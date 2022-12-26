@@ -35,5 +35,5 @@ Most if not all of the images have been converted to webp, which save some data 
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

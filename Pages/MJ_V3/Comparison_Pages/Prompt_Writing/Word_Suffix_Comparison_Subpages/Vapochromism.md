@@ -11,7 +11,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Vapochromism</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromism.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromism</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromism.webp?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -19,41 +19,41 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Vapochromey</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromey.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromey</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromey.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Vapochromality</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromality.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromality</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromality.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Vapochromized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromized.webp?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-			<p><code>Vapochromist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromist.webp?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Vapochromistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromistic.webp?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Vapochromismcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismcore.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromized.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Vapochromismwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismwave.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromist.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Vapochromismpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismpunk.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromistic.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Vapochromismboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismboop.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromismcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismcore.webp?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+			<p><code>Vapochromismwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismwave.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Vapochromismpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismpunk.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Vapochromismboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromismboop.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
         <td>
-			<p><code>Vapochromatic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromatic.webp?raw=true" width="256" /></p>
+			<p><code>Vapochromatic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromatic.webp?raw=true" width="256" /></p>
         </td>
 		<td>-</td>
 	</tr>
@@ -66,5 +66,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
 </div>

@@ -10,10 +10,10 @@
 <table>
   <tr align="center" valign="middle">
     <td width=384>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Diacritic_Mark_Comparison.md">🗣 Diacritic Mark Comparison</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Diacritic_Mark_Comparison.md">🗣 Diacritic Mark Comparison</a>
     </td>
     <td width=384>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Font_Comparison.md">© Font Comparison</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Font_Comparison.md">© Font Comparison</a>
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@
 <table>
   <tr align="center" valign="middle">
     <td width=768>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Seed_Parameter.md">🌱 Seed and Sameseed</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Comparison_Pages/Seed_Parameter.md">🌱 Seed and Sameseed</a>
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
 <table>
   <tr align="center" valign="middle">
     <td width=768>
-      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Cross_Analysis/Stylize_Resolution_Cross_Analysis.md">🎇📏 --stylize/Resolution Cross Analysis</a>
+      <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Cross_Analysis/Stylize_Resolution_Cross_Analysis.md">🎇📏 --stylize/Resolution Cross Analysis</a>
     </td>
   </tr>
 </table>
@@ -43,5 +43,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

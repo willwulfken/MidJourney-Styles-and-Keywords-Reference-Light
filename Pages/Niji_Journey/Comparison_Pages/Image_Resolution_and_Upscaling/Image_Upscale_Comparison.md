@@ -11,16 +11,16 @@
 <table>
 	<tr align="center" valign="middle">
 		<td width=256>
-			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
 		</td>
 		<td width=256>
-			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
 		</td>
 		<td width=256>
-			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
 		</td>
 		<td width=256>
-			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V4 Alpha</a>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V4 Alpha</a>
 		</td>
 	</tr>
 </table>
@@ -30,7 +30,7 @@
 			<a href="">Niji Journey</a>
 		</td>
 		<td width=256>
-			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">Beta Upscale</a>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">Beta Upscale</a>
 		</td>
 	</tr>
 </table>
@@ -50,46 +50,46 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_1.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_1.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_1_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_1_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_1_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
-        </td>
-    </tr>
-    <tr align=center valign=middle>
-        <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_2.webp?raw=true" width="256" /><p><code>512x512</code></p>
-        </td>
-        <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_2_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
-        </td>
-        <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_2_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_1_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_3.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_2.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_3_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_2_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_3_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_2_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_4.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_3.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_4_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_3_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_4_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_3_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_4.webp?raw=true" width="256" /><p><code>512x512</code></p>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_4_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Niji_Journey/Comparison_Page_Images/Image_Upscale_Comparison/Anime_4_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
 </table>
@@ -100,5 +100,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
 </div>
