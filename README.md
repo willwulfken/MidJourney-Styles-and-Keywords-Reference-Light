@@ -5,9 +5,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/Banner/banner_light.webp?raw=true">
   <img alt="Midjourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/Banner/banner_light.webp?raw=true">
 </picture><br><br>
-
+<hr><!--------------->
 <div align="center">
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Why_its_called_light.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/button_why_its_called_light_light_active.webp?raw=true" alt="Why it's called light" width=624></a>
+You may be asking...
+<br>&nbsp<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Why_its_called_light.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/button_why_is_it_called_light_light_active.webp?raw=true" alt="Why is it called &#34;Light&#34;?" width=512></a>
 </div>
 
 
