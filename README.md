@@ -1,4 +1,4 @@
-<div align="center"><h6>Updated with commit 847 of <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></h6></div>
+<div align="center"><h5>Updated with commit 847 of <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></h5></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Banner/banner_dark.webp?raw=true">
