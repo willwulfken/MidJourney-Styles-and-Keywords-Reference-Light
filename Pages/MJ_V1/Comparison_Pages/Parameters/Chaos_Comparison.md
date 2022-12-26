@@ -8,13 +8,13 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="">MidJourney V1</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Parameters/Chaos_Comparison.md">MidJourney V2</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Parameters/Chaos_Comparison.md">MidJourney V3</a>
 		</td>
 	</tr>

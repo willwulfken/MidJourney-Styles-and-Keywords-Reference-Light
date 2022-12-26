@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Styles.md">Just The Style</a>
+<table>
+	<tr align="center" valign="middle">
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Styles.md">Just The Style</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

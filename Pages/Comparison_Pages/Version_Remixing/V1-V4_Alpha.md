@@ -6,13 +6,13 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="">V1 - V4 Alpha</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Remixing/test_testp_creative.md">Test, Testp, Creative</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha_test_testp_creative.md">V1 - V4 Alpha ➜ Test, Testp, Creative</a>
 		</td>
 	</tr>

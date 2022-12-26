@@ -4,13 +4,13 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Style_Pages/Sphere/Structural_Modification.md">MidJourney V1</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Style_Pages/Sphere/Structural_Modification.md">MidJourney V2</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Structural_Modification.md">MidJourney V3</a>
 		</td>
 	</tr>
@@ -18,10 +18,10 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Just_The_Style/Structural_Modification.md">Just The Style</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Structural_Modification.md">Sphere</a>
 		</td>
 	</tr>

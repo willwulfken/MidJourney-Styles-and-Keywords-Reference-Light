@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Niji_Journey/Styles.md">Just The Style</a>
+<table>
+	<tr align="center" valign="middle">
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Niji_Journey/Styles.md">Just The Style</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 

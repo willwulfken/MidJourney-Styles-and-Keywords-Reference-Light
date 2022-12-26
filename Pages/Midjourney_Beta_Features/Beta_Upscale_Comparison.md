@@ -10,26 +10,26 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V4 Alpha</a>
 		</td>
 	</tr>
 </table>
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29">Niji Journey</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="">Beta Upscale</a>
 		</td>
 	</tr>

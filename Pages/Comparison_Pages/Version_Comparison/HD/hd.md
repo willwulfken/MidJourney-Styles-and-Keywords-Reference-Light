@@ -6,10 +6,10 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">V1 vs V2 vs V3 vs V4</a>
 		</td>
-		<td>
+		<td width=256>
 			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">Midjourney V4 Alpha</a>
 		</td>
 	</tr>
