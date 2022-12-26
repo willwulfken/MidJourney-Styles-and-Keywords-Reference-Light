@@ -17,8 +17,8 @@ You may be asking...
 
 <div align="center">
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR.webp?raw=true" width = 768>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR_light.webp?raw=true" width = 768>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR_colored.webp?raw=true" width = 768>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR_colored_light.webp?raw=true" width = 768>
   <img alt="Go To The Original, Higher Quality MidJourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR.webp?raw=true" width = 768>
 </picture></a>
 </div>
