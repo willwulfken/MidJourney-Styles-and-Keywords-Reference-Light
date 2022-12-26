@@ -1,4 +1,4 @@
-<h2>Why It's Called "Light"</h2>
+<h2>Why is it Called "Light"?</h2>
 
 <hr><!--------------->
 
