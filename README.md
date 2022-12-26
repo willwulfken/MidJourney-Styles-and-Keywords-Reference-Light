@@ -4,8 +4,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Banner/banner_dark.webp?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Banner/banner_light.webp?raw=true">
   <img alt="Midjourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Banner/banner_light.webp?raw=true">
-</picture><br><br>
-<hr><!--------------->
+</picture>
+<br><br>
 <div align="center">
 You may be asking...
 <br>&nbsp<br>
@@ -14,6 +14,14 @@ You may be asking...
 
 
 <hr><!--------------->
+
+<div align="center">
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR.webp?raw=true" width = 768>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR_light.webp?raw=true" width = 768>
+  <img alt="Go To The Original, Higher Quality MidJourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/button_go_to_MJSR.webp?raw=true" width = 768>
+</picture></a>
+</div>
 
 <div align="center">
 
