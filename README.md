@@ -289,8 +289,3 @@
 </table>
 
 </div>
-
-<hr><!--------------->
-<div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Style_Pages.md">🎴 Style Pages</a></h6>
-</div>
