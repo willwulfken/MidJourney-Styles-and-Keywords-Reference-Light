@@ -29,6 +29,12 @@ This repo may not be updated as often and does not contain as much as <a href="h
 <h3><pre>Any other details worth mentioning?</pre></h3>
 Most if not all of the images have been converted to webp, which save some data but have the same quality as their png counterparts. Webp isn't quite as widely supported as png, mostly for old platforms, but most people won't have an issue.
 
+<br>
+
+As of <b>Commit 44</b> of this repo, the total size is 1.23 GB.
+<br>
+As of <b>Commit 848</b> of <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a>, the total size is 9.04 GB.
+
 </div>
 
 <br>
