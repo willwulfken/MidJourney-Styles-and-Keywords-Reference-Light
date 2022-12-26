@@ -1,4 +1,4 @@
-<div align="center"><h4>Updated with commit 847 of <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></h4></div>
+<div align="center"><h6>Updated with commit 847 of <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></h6></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/Banner/banner_dark.webp?raw=true">
@@ -6,8 +6,9 @@
   <img alt="Midjourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/Banner/banner_light.webp?raw=true">
 </picture><br><br>
 
-<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
-
+<div align="center">
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Why_its_called_light.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Repo_Parts/button_why_its_called_light_light_active.webp?raw=true" alt="Why it's called light" width=624></a>
+</div>
 
 
 <hr><!--------------->
