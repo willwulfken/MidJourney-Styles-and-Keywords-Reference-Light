@@ -8,13 +8,32 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-<br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_MJV4_alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />]()
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_beta_upscale_inactive.webp?raw=true" alt="Beta Upscale" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md)
+<table>
+	<tr align="center" valign="middle">
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V1</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V2</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">MidJourney V3</a>
+		</td>
+		<td width=256>
+			<a href="">MidJourney V4 Alpha</a>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr align="center" valign="middle">
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29">Niji Journey</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">Beta Upscale</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 
@@ -34,46 +53,46 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
-        </td>
-    </tr>
-    <tr align=center valign=middle>
-        <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2.webp?raw=true" width="256" /><p><code>512x512</code></p>
-        </td>
-        <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
-        </td>
-        <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4.webp?raw=true" width="256" /><p><code>512x512</code></p>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
 </table>
@@ -84,5 +103,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

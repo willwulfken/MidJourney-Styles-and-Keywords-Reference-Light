@@ -4,10 +4,22 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_MJV4_alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />]()
+<table>
+	<tr align="center" valign="middle">
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V1</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V2</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">MidJourney V3</a>
+		</td>
+		<td width=256>
+			<a href="">MidJourney V4 Alpha</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 
@@ -26,51 +38,51 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>Sphere</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Sphere.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Sphere_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Sphere_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Sphere.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Sphere_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Sphere_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Aurora Borealis</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Aurora_Borealis.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Aurora_Borealis_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Aurora_Borealis_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Aurora_Borealis.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Aurora_Borealis_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Aurora_Borealis_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Vaporwave</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Vaporwave.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Vaporwave_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Vaporwave_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Vaporwave.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Vaporwave_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Vaporwave_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Synesthesia</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Synesthesia.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Synesthesia_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Synesthesia_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Synesthesia.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Synesthesia_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Synesthesia_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Deep_Dream</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Deep_Dream_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Deep_Dream_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Deep_Dream_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Deep_Dream_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Art_By_M.C._Escher</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Art_By_M.C._Escher.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Art_By_M.C._Escher_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Art_By_M.C._Escher_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Art_By_M.C._Escher.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Art_By_M.C._Escher_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Art_By_M.C._Escher_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Milky_Quartz</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Milky_Quartz_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Milky_Quartz_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Milky_Quartz_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Milky_Quartz_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>Ray_Tracing_Reflections</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Ray_Tracing_Reflections_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Ray_Tracing_Reflections_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Ray_Tracing_Reflections_ar3-2.webp?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Ray_Tracing_Reflections_ar2-3.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 </table>
 
@@ -78,5 +90,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

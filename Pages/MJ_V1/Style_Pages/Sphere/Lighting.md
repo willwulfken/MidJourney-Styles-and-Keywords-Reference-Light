@@ -2,9 +2,19 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV1_active.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Lighting.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Lighting.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_MJV3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Lighting.md)
+<table>
+	<tr align="center" valign="middle">
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V1/Style_Pages/Sphere/Lighting.md">MidJourney V1</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V2/Style_Pages/Sphere/Lighting.md">MidJourney V2</a>
+		</td>
+		<td width=256>
+			<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Style_Pages/Sphere/Lighting.md">MidJourney V3</a>
+		</td>
+	</tr>
+</table>
 
 
 </div>
@@ -17,49 +27,49 @@
 
 	| Spotlight |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spotlight.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spotlight.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Frontlight | Backlight |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Frontlight.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Backlight.webp?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Frontlight.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Backlight.webp?raw=true" width="256" /> | 
 	
 	<br>
 	
 	| Rim Lighting |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rim_Lighting.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rim_Lighting.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Crepuscular Rays | Rays of Shimmering Light |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crepuscular_Rays.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rays_of_Shimmering_Light.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crepuscular_Rays.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rays_of_Shimmering_Light.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Sunlight | Sunshine Ray |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunlight.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunshine_Ray.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunlight.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunshine_Ray.webp?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Plasma Globe |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plasma_Globe.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plasma_Globe.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Glow Stick |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glow_Stick.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glow_Stick.webp?raw=true" width="256" /> |
 	
 	<br>
 
 	| Neon Lamp |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neon_Lamp.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neon_Lamp.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -68,13 +78,13 @@
 
 	| Moody Lighting | Cinematic Lighting | Studio Lighting |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Moody_Lighting.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cinematic_Lighting.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Studio_Lighting.webp?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Moody_Lighting.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cinematic_Lighting.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Studio_Lighting.webp?raw=true" width="256" /> | 
 	
 	<br>
 	
 	| Volumetric Lighting |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Volumetric_Lighting.webp?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Volumetric_Lighting.webp?raw=true" width="256" /> |
 	
 	<br>
 
@@ -82,5 +92,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

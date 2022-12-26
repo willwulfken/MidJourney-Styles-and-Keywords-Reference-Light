@@ -11,7 +11,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Fluorescent</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescent</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent.webp?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -19,30 +19,30 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Fluoresced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluoresced.webp?raw=true" width="256" /></p>
+			<p><code>Fluoresced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluoresced.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescing.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescing.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescentcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentcore.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescentcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentcore.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Fluorescentwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentwave.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescentwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentwave.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescentpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentpunk.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescentpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentpunk.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescentboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentboop.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescentboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentboop.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
         <td>
-			<p><code>Fluorescence</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescence.webp?raw=true" width="256" /></p>
+			<p><code>Fluorescence</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescence.webp?raw=true" width="256" /></p>
         </td>
 		<td>-</td>
 	</tr>
@@ -55,5 +55,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light/blob/text-gui/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
 </div>
